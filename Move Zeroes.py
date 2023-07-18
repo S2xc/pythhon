@@ -8,4 +8,5 @@ class Solution:
                 self.nums.remove(0)
         
         return self.nums
-#Yfx
+#Yfxn
+
