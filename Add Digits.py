@@ -4,8 +4,8 @@ class Solution:
         self.lyt = 2
 
         while self.lyt > 1:
-            self.gh = sum(map(int, list(str(self.num))))
-            self.lyt = len(list(str(self.gh)))
-            self.num = self.gh
+            self.uio = sum(map(int, list(str(self.num))))
+            self.lyt = len(list(str(self.uio)))
+            self.num = self.uio
 
-        return self.gh
+        return self.uio
