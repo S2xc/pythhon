@@ -23,7 +23,7 @@ The judge will test your solution with the following code:
     }
 
 If all assertions pass, then your solution will be accepted.
-
+c
  
 
 Example 1:
