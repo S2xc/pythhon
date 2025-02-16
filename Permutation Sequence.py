@@ -22,3 +22,4 @@ class Solution:
         self.end = ''.join(str(e) for e in self.en)
         
         return (self.end)
+# Refactored function for better performance 2025-02-16 14:15:23
