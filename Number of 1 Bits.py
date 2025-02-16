@@ -8,3 +8,5 @@ class Solution:
 sol = Solution()
 sol.hammingWeight(n = int(input()))
 # Refactored function for better performance 2025-02-16 14:51:21
+
+# Refactored function for better performance 2025-02-16 14:51:33
