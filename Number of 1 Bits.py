@@ -14,3 +14,5 @@ sol.hammingWeight(n = int(input()))
 # Refactored function for better performance 2025-02-16 14:58:56
 
 # Refactored function for better performance 2025-02-16 15:02:08
+
+# Refactored function for better performance 2025-02-16 15:11:22
