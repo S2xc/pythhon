@@ -43,3 +43,4 @@ class Solution:
         ints_list = temp 
 
         return (str(''.join(ints_list)))'''
+# Refactored function for better performance 2025-02-16 14:46:07
