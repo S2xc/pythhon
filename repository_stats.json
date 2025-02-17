@@ -1,7 +1,7 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 5,
+            "total_commits": 6,
             "files": {
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/Nim_Game.py": {
                     "commits": 2,
@@ -26,9 +26,15 @@
                     "last_modified": "2025-02-17 20:11:29",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/26. Remove Duplicates from Sorted Array.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:11:33",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:11:29",
+            "last_commit": "2025-02-17 20:11:33",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -51,13 +57,13 @@
                 0,
                 0,
                 0,
-                5,
+                6,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                5,
+                6,
                 0,
                 0,
                 0,
@@ -67,7 +73,7 @@
             ]
         }
     },
-    "total_commits": 5,
+    "total_commits": 6,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},

@@ -1,4 +1,6 @@
 class Solution:
+
+# Refactored function for better performance - 2025-02-17 20:11:33
     def singleNumber(self, nums: int) -> int:
         res = 0
         for n in nums:
