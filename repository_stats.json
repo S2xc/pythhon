@@ -1,46 +1,16 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 6,
+            "total_commits": 1,
             "files": {
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/telebot.py": {
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Nim_Game.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:02:28",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/1768. Merge Strings Alternately.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:02:31",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Plus One.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:02:36",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Permutation Sequence.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:02:39",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Find the Index of the First Occurrence in a String.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:02:42",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Letter Combinations of a Phone Number.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:02:45",
+                    "last_modified": "2025-02-17 20:11:15",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:02:45",
+            "last_commit": "2025-02-17 20:11:15",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -63,13 +33,13 @@
                 0,
                 0,
                 0,
-                6,
+                1,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                6,
+                1,
                 0,
                 0,
                 0,
@@ -79,7 +49,7 @@
             ]
         }
     },
-    "total_commits": 6,
+    "total_commits": 1,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
