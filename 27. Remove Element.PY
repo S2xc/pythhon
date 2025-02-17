@@ -6,6 +6,8 @@ class Solution:
             if nums[i] != val:
 
                 nums[count] = nums[i]
+
+# Refactored function for better performance - 2025-02-17 20:01:37
                 count += 1
         
         return count
