@@ -1,11 +1,11 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 2,
+            "total_commits": 3,
             "files": {
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/Nim_Game.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:11:15",
+                    "commits": 2,
+                    "last_modified": "2025-02-17 20:11:22",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
@@ -16,7 +16,7 @@
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:11:18",
+            "last_commit": "2025-02-17 20:11:22",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -39,13 +39,13 @@
                 0,
                 0,
                 0,
-                2,
+                3,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                2,
+                3,
                 0,
                 0,
                 0,
@@ -55,7 +55,7 @@
             ]
         }
     },
-    "total_commits": 2,
+    "total_commits": 3,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
