@@ -1,16 +1,22 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 1,
+            "total_commits": 2,
             "files": {
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/Single Number.py": {
                     "commits": 1,
                     "last_modified": "2025-02-17 20:14:16",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Merge Two Sorted Lists.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:14:19",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:14:16",
+            "last_commit": "2025-02-17 20:14:19",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -33,13 +39,13 @@
                 0,
                 0,
                 0,
-                1,
+                2,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                1,
+                2,
                 0,
                 0,
                 0,
@@ -49,7 +55,7 @@
             ]
         }
     },
-    "total_commits": 1,
+    "total_commits": 2,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
