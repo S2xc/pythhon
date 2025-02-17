@@ -55,6 +55,8 @@ class Solution:
     def removeDuplicates(self, nums: list[int]) -> int:
         count = 0
 
+
+# Refactored function for better performance - 2025-02-17 20:11:29
         for i, i1 in enumerate(nums):
             for y, y1 in enumerate(nums):
                 if nums[i] == nums[y]:
