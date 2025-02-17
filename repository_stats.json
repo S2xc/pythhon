@@ -49,16 +49,22 @@
             ]
         },
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 1,
+            "total_commits": 2,
             "files": {
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/292. Nim Game.py": {
                     "commits": 1,
                     "last_modified": "2025-02-17 20:01:37",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/27. Remove Element.PY": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:01:39",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:01:37",
+            "last_commit": "2025-02-17 20:01:39",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -81,13 +87,13 @@
                 0,
                 0,
                 0,
-                1,
+                2,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                1,
+                2,
                 0,
                 0,
                 0,
@@ -97,7 +103,7 @@
             ]
         }
     },
-    "total_commits": 2,
+    "total_commits": 3,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
