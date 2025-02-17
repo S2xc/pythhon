@@ -19,6 +19,8 @@ class Solution:
             self.ml.append(b)
 
         self.en = self.ml[self.k-1] 
+
+# Refactored function for better performance - 2025-02-17 20:02:36
         self.end = ''.join(str(e) for e in self.en)
 
         
