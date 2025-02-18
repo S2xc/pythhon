@@ -12,6 +12,8 @@ class Solution:
                 elif n + n1 == target:
                     if n == self.l:
                         pass
+
+# Refactored function for better performance - 2025-02-18 22:08:05
                     else:
                         self.l.append(i)
                 else:

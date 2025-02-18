@@ -1,28 +1,16 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 3,
+            "total_commits": 1,
             "files": {
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Single Number.py": {
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/apple_test.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:14:16",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Merge Two Sorted Lists.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:14:19",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/1071. Greatest Common Divisor of Strings.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:14:22",
+                    "last_modified": "2025-02-18 22:08:05",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:14:22",
+            "last_commit": "2025-02-18 22:08:05",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -45,14 +33,14 @@
                 0,
                 0,
                 0,
-                3,
                 0,
                 0,
+                1,
                 0
             ],
             "active_days": [
-                3,
                 0,
+                1,
                 0,
                 0,
                 0,
@@ -61,7 +49,7 @@
             ]
         }
     },
-    "total_commits": 3,
+    "total_commits": 1,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
@@ -69,6 +57,6 @@
     "commit_streaks": {
         "current": 1,
         "longest": 0,
-        "last_commit_date": "2025-02-17"
+        "last_commit_date": "2025-02-18"
     }
 }
