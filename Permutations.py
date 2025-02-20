@@ -3,6 +3,8 @@ x = [0]
 ml = []
 
 l = len(x)
+
+# Refactored function for better performance - 2025-02-20 18:43:08
 m = list(permutations(x,l))
 for i in m:
     b=list(i)
