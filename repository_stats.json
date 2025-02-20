@@ -1,7 +1,7 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 6,
+            "total_commits": 7,
             "files": {
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/1071. Greatest Common Divisor of Strings.py": {
                     "commits": 1,
@@ -32,9 +32,15 @@
                     "last_modified": "2025-02-20 18:43:07",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/26. Remove Duplicates from Sorted Array.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-20 18:43:13",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-20 18:43:10",
+            "last_commit": "2025-02-20 18:43:13",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -55,7 +61,7 @@
                 0,
                 0,
                 0,
-                6,
+                7,
                 0,
                 0,
                 0,
@@ -66,14 +72,14 @@
                 0,
                 0,
                 0,
-                6,
+                7,
                 0,
                 0,
                 0
             ]
         }
     },
-    "total_commits": 6,
+    "total_commits": 7,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
