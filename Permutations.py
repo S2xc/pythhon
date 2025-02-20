@@ -35,6 +35,8 @@ class Solution:
             if i == o or o == y:
                 continue
             else:
+
+# Refactored function for better performance - 2025-02-20 18:43:02
                 num =[(i),(y),(o)]
                  
                 j.append(num)
