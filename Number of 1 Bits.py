@@ -3,6 +3,8 @@ class Solution:
         self.n = n
         self.n = list(str(self.n))
         print(self.n.count('1'))
+
+# Refactored function for better performance - 2025-02-20 18:51:50
     
 
 sol = Solution()
