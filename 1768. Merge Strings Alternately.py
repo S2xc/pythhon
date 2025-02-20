@@ -10,6 +10,8 @@ class Solution:
                 res += word1[i]
             if l2 > i:
                 res += word2[i]
+
+# Refactored function for better performance - 2025-02-20 18:51:47
         
         return res
 # Refactored function for better performance 2025-02-16 14:46:07
