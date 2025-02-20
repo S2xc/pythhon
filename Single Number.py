@@ -3,6 +3,8 @@ class Solution:
         self.nums = nums
 
         self.c = set(nums)
+
+# Refactored function for better performance - 2025-02-20 18:52:06
         for self.i in self.c:
             self.n = self.nums.count(self.i)
         
