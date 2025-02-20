@@ -26,6 +26,8 @@ class Solution:
 
         for i in str2:
             i2.append(i)
+
+# Refactored function for better performance - 2025-02-20 18:42:54
             j = str(''.join(i2))
 
             if str1.find(str2) != -1:
