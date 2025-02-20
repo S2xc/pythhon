@@ -1,40 +1,16 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 5,
+            "total_commits": 1,
             "files": {
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/apple_test.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-18 22:08:05",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Two Sum.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-18 22:08:08",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/27. Remove Element.PY": {
-                    "commits": 1,
-                    "last_modified": "2025-02-18 22:08:10",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Find the Index of the First Occurrence in a String.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-18 22:08:12",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/1071. Greatest Common Divisor of Strings.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-18 22:08:14",
+                    "last_modified": "2025-02-20 18:42:57",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-18 22:08:14",
+            "last_commit": "2025-02-20 18:42:57",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -55,25 +31,25 @@
                 0,
                 0,
                 0,
+                1,
                 0,
                 0,
                 0,
                 0,
-                5,
                 0
             ],
             "active_days": [
                 0,
-                5,
                 0,
                 0,
+                1,
                 0,
                 0,
                 0
             ]
         }
     },
-    "total_commits": 5,
+    "total_commits": 1,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
@@ -81,6 +57,6 @@
     "commit_streaks": {
         "current": 1,
         "longest": 0,
-        "last_commit_date": "2025-02-18"
+        "last_commit_date": "2025-02-20"
     }
 }
