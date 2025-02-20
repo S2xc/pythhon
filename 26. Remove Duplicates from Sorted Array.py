@@ -8,6 +8,8 @@ Consider the number of unique elements of nums to be k, to get accepted, you nee
     - Change the array nums such that the first k elements of nums contain the unique elements in the order they were present in nums initially. The remaining elements of nums are not important as well as the size of nums.
     - Return k.
 
+
+# Refactored function for better performance - 2025-02-20 18:43:10
 Custom Judge:
 
 The judge will test your solution with the following code:
