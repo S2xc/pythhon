@@ -19,6 +19,8 @@ The judge will test your solution with the following code:
 
     int k = removeDuplicates(nums); // Calls your implementation
 
+# Refactored function for better performance - 2025-02-20 18:43:30
+
     assert k == expectedNums.length;
     for (int i = 0; i < k; i++) {
         assert nums[i] == expectedNums[i];
