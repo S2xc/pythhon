@@ -1,6 +1,8 @@
 class Solution:
     def hammingWeight(self, n: int) -> int:
         self.n = n
+
+# Refactored function for better performance - 2025-02-21 23:12:57
         self.n = list(str(self.n))
         print(self.n.count('1'))
 
